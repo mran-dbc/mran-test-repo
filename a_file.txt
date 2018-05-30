@@ -4,4 +4,6 @@ An Apple a day
 
 The A-File rules
 
-Line 7 In the A file
+Line 7 In the A file - FEATURE_THREE
+
+Line 8 In A file FEATURE_THREE
