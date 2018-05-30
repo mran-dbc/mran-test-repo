@@ -3,3 +3,5 @@ This is a file
 An Apple a day
 
 The A-File rules
+
+Another line 7 in the A-File - MASTER
