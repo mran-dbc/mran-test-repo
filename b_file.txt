@@ -3,3 +3,5 @@ This is the B file
 To B or not to B
 
 And it B-comes her well
+
+B-have
