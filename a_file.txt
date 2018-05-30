@@ -3,3 +3,5 @@ This is a file
 An Apple a day
 
 The A-File rules
+
+Line 7 In the A file
