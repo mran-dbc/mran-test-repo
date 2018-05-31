@@ -8,5 +8,5 @@ Line 7 In the A file - FEATURE_THREE AND MASTER
 
 Line 8 In A file FEATURE_THREE
 
-Line 11 in MASTER - File a_file
+Line 11 in A_FILE -- feature Four
 Line 12 in MASTER - File a_file
