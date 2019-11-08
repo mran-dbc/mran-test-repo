@@ -3,3 +3,7 @@ This is file with name d
 It's a d-file
 
 Changes made to d_file
+
+More changes
+
+And even more changes
